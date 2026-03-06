@@ -1,6 +1,6 @@
 # 🚨 Alarme com Sensor de Presença e Movimento (Arduino)
 📷 Circuito no Tinkercad
-![Circuito alarme presença](alarme-presenca.jpg)
+![Circuito alarme presença](alarme.jpg)
 
 ## 📌 Descrição do Projeto
 
